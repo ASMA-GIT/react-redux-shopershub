@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# redux-shoppers hub
+SignIn Page
+![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2e4cd409-5390-4a99-9d13-a04b8edd4c36)
+
+SignUp Page
+![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2244e036-c940-4fa8-87eb-cb81f7201638)
+
+Home Page
+![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2d4f4662-b033-4e4b-bc6e-8d80b86b1461)
+
+Cart Details Page
+![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/3ca7ad12-0b1e-47af-aab9-d5654461b338)
+
+Product Detail Page
+![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/1d88d022-dfe9-477c-add1-57399cc81fdc)
+
