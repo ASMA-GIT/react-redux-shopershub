@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-shopershub/static/css/main.be9887cf.css",
+    "main.js": "/react-redux-shopershub/static/js/main.55d6d156.js",
+    "static/media/Arrow.png": "/react-redux-shopershub/static/media/Arrow.beb45a72dc34938bc0cd.png",
+    "index.html": "/react-redux-shopershub/index.html",
+    "main.be9887cf.css.map": "/react-redux-shopershub/static/css/main.be9887cf.css.map",
+    "main.55d6d156.js.map": "/react-redux-shopershub/static/js/main.55d6d156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9887cf.css",
+    "static/js/main.55d6d156.js"
+  ]
+}
