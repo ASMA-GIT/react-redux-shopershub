@@ -1,3 +1,24 @@
+# redux-shoppers hub
+**SignIn Page**
+![Screenshot 2023-11-10 003921](https://github.com/ASMA-GIT/react-redux-shopershub/assets/75538890/52d17dac-c505-4324-acb2-d98138ff516a)
+
+**SignUp Page**
+
+![Screenshot 2023-11-10 010333](https://github.com/ASMA-GIT/react-redux-shopershub/assets/75538890/3d91fd3b-0fdf-4c99-bd19-39da6e52d198)
+
+
+**Home Page**
+![Screenshot 2023-11-10 010450](https://github.com/ASMA-GIT/react-redux-shopershub/assets/75538890/75d2c88d-bc97-46d5-ad40-b0b5fd2ed5ec)
+
+
+**Cart Details Page**
+![Screenshot 2023-11-10 010533](https://github.com/ASMA-GIT/react-redux-shopershub/assets/75538890/1e66b404-f107-4752-b71b-439c90f84434)
+
+
+**Product Detail Page**
+![Screenshot 2023-11-10 010602](https://github.com/ASMA-GIT/react-redux-shopershub/assets/75538890/af891b24-2339-4aae-adef-7b30312f6e80)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,19 +90,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# redux-shoppers hub
-SignIn Page
-![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2e4cd409-5390-4a99-9d13-a04b8edd4c36)
 
-SignUp Page
-![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2244e036-c940-4fa8-87eb-cb81f7201638)
-
-Home Page
-![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/2d4f4662-b033-4e4b-bc6e-8d80b86b1461)
-
-Cart Details Page
-![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/3ca7ad12-0b1e-47af-aab9-d5654461b338)
-
-Product Detail Page
-![image](https://github.com/ASMA-GIT/redux-shopershub/assets/75538890/1d88d022-dfe9-477c-add1-57399cc81fdc)
 
